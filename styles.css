@@ -9,6 +9,7 @@
 a{
     color: var(--success);
     font: Inter;
+    text-decoration: none;
 }
 
 /* =========================
